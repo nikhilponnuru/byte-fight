@@ -4,5 +4,5 @@
   just download zip file--extract it and run the file in editors like codeblocks. 
   All the instructions on how to play are displayed once you execute this.
   
-I am no more interested in this repo 
+I am no more interested in this repo [ but if you can't play or errors, then please open an issue ]
  
