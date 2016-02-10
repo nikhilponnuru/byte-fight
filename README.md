@@ -1,5 +1,5 @@
 # byte-fight
-  just download zip--extract and run the .exe file
+  just download zip file--extract it and run the file in editors like codeblocks 
   
-I am no more interested in this repo
+I am no more interested in this repo 
  
